@@ -1,3 +1,6 @@
+import React from 'react';
+//import FriendsList from './FriendsList';
+
 export default function Page() {
   return (
     <div className="flex flex-col h-screen bg-white">
@@ -8,9 +11,10 @@ export default function Page() {
 
       {/* Main content with flexbox to center "Welcome" message vertically */}
       <main className="flex-grow flex flex-col justify-center items-center">  {/* Added flex-col and justify-center */}
-        <p className="text-center text-xl font-semibold" style={{ fontFamily: 'Inter, sans-serif', marginBottom: '85px' }}>
-          Welcome to the Clerkie Challenge!
-        </p>
+        <div className="container">
+          <h1>Friends List</h1>
+            
+        </div>
       </main>
     </div>
   );
