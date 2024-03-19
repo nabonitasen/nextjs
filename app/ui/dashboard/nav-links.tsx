@@ -5,8 +5,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 const links = [
-  { name: 'Home', href: '/', icon: '/icons/home.png' }, 
-  { name: 'Friends', href: '/friends', icon: '/icons/friends.png' },
+  { name: 'Home', href: '/', icon: '/home.svg' }, 
+  { name: 'Friends', href: '/friends', icon: '/friends.svg' },
 ];
 
 export default function NavLinks() {
