@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Sally Cooper",
+      "group": "Close Friends",
+      "email": "sallycooper@gmail.com",
+      "phone": "(470) 782-5471"
+    },
+    {
+      "id": 2,
+      "name": "Judith Gonzalez",
+      "group": "",
+      "email": "jgonzalez@gmail.com",
+      "phone": "(123) 142-4123"
+    },
+    {
+      "id": 3,
+      "name": "George Bryant",
+      "group": "",
+      "email": "georgebryant@gmail.com",
+      "phone": "(393) 292-0983"
+    },
+    {
+      "id": 4,
+      "name": "Betty Wood",
+      "group": "Super Close Friends",
+      "email": "betty@gmail.com",
+      "phone": "(273) 098-1029"
+    },
+    {
+      "id": 5,
+      "name": "Debra Russell",
+      "group": "Super Close Friends",
+      "email": "debrarussell@gmail.com",
+      "phone": "(412) 235-5321"
+    },
+    {
+        "id": 6,
+        "name": "Georgina Bryant",
+        "group": "",
+        "email": "georginabryant@gmail.com",
+        "phone": "(393) 292-0423"
+      },
+      {
+        "id": 7,
+        "name": "Brett Wood",
+        "group": "Super Close Friends",
+        "email": "brett@gmail.com",
+        "phone": "(273) 098-1065"
+      },
+      {
+        "id": 8,
+        "name": "Dallas Russell",
+        "group": "Super Close Friends",
+        "email": "dallasrussell@gmail.com",
+        "phone": "(412) 235-5371"
+      }
+  ]
+  
