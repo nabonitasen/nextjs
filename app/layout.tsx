@@ -17,9 +17,6 @@ export default function RootLayout({
 }>) {
   return (
     <div className="flex h-screen flex-col md:flex-row md:overflow-hidden">
-      <div className="w-full flex-none md:w-48">
-        <SideNav />
-      </div>
       <div className="flex-grow md:overflow-y-auto">{children}</div>
     </div>
   );
